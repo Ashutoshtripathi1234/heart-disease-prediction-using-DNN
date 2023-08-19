@@ -1,4 +1,10 @@
 # heart-disease-prediction-using-DNN
+
+**Heart disease prediction using DNN-**
+
+According to WHO (World Health Organization), Heart diseases are the reason for 12 million deaths every year.This project aims to provide give solution for heart disease prediction for patients if they have heart disease or not.The dataset(available in repository) contains more than 10 features, after applying feature selection methods, we end up with 8 features those are important for prediction. we used the deep neural network for this task and achieved around 92% accuracy.Here are the model evaluation results.
+
+
 #model loss vs no of epochs
 
 ![download1](https://github.com/Ashutoshtripathi1234/heart-disease-prediction-using-DNN/assets/125081897/fdc449fc-6aef-4945-9c5c-2ae788dc7f70)
